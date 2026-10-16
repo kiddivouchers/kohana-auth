@@ -3,7 +3,7 @@
 	"description": "Fork of Kohana Auth",
 	"license": "BSD-3-Clause",
 	"require": {
-		"php": "^7.3"
+		"php": "^8"
 	},
 	"replace": {
 		"kohana/auth": "3.2.*"
